@@ -134,7 +134,7 @@ border-bottom: 2px solid rgb(156, 14, 14);
 
   /* Start Landing Page */
   .landing{
-    background: url(../Images/pexels-pixabay-3557471.jpg);
+    background: url(pexels-pixabay-3557471.jpg);
     background-size: cover;
     height: calc(100vh - 80px);
     position: relative;
@@ -411,4 +411,5 @@ border-bottom: 2px solid rgb(156, 14, 14);
 .footer span {
   font-weight: bold;
   color: wheat;
+
 }
